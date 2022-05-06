@@ -2,7 +2,7 @@
 
     All repos are private, for protected my ideas. But, Look the theme and objective list that has these projects 
     
-## Theme
+## Themes
 - Scraper and natural language process
 - Ontology, knowledge graphs and question answer system
 - Concurrente and distributed system
